@@ -1,5 +1,6 @@
 # ATAC-Seq-pipeline
-## Options:
+A pipeline of ChIP-Seq raw data processing and downstream analysis
+### Options:
     -h --help      display the usage and exit.
     -a --access    necessary file containing SRR number or sample name to be operate. [e.g. accession.txt]
     -d --dump      transform sra to fastq by fastq-dump.
@@ -14,5 +15,6 @@
     -H --HOMER     use HOMER to find Motifs and TFBS
     -g --graph     transform to bigWig Format for genome browser
     -v --version   display version information and exit.\n"
-## Example
+
+### Example
 sh ATAC_pipeline.sh -a accession.txt -d -f S -c 5,3 -b -s -p -r -D -P -H -g
