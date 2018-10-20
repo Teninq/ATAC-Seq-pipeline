@@ -14,3 +14,5 @@
     -H --HOMER     use HOMER to find Motifs and TFBS
     -g --graph     transform to bigWig Format for genome browser
     -v --version   display version information and exit.\n"
+## Example
+sh ATAC_pipeline.sh -a accession.txt -d -f S -c 5,3 -b -s -p -r -D -P -H -g
