@@ -1,5 +1,5 @@
 # ATAC-Seq-pipeline
-A pipeline of ChIP-Seq raw data processing and downstream analysis
+A pipeline of ATAC-Seq raw data processing and downstream analysis
 ### Options:
     -h --help      display the usage and exit.
     -a --access    necessary file containing SRR number or sample name to be operate. [e.g. accession.txt]
