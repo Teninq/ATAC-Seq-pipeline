@@ -1,7 +1,7 @@
 #!/bin/bash
 ########################################
 ##! @Author: Chenkai Lv
-##! @Todo: ATACseq pipeline Download
+##! @Todo: ATACseq pipeline
 ##! @Updated: 2018.09.04
 ##! @Dep: Shell
 ##! @ChangeLog:
